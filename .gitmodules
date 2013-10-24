@@ -1,12 +1,12 @@
 [submodule "RR"]
 	path = RR
-	url = git@github.com:dontpanic-swe/RR.git
+	url = https://github.com/dontpanic-swe/RR.git
 [submodule "RQ"]
 	path = RQ
-	url = git@github.com:dontpanic-swe/RQ.git
+	url = https://github.com/dontpanic-swe/RQ.git
 [submodule "RP"]
 	path = RP
-	url = git@github.com:dontpanic-swe/RP.git
+	url = https://github.com/dontpanic-swe/RP.git
 [submodule "RA"]
 	path = RA
-	url = git@github.com:dontpanic-swe/RA.git
+	url = https://github.com/dontpanic-swe/RA.git
